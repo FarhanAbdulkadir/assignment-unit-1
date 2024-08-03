@@ -1,12 +1,45 @@
 /* Add a background color to the header element */
+
 header{
     background-color: antiquewhite;
     text-align: center;
     font-size: 24px;
+    
+   
+}
+img{
+    height: 300px;
+    width: 560px;
+    margin:25px 60px 1px 10px;
+    border-style: solid;
+    border-color: red;
+    
+    
 
 }
-
 /* Add a fun background color to the main element */
+main{
+    background-color:rgba(135, 206, 235, 0.5);
+    width: fit-content;
+    
+
+}
+p.par{
+    color: red;
+    font-style: italic;
+
+}
+ul.list{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    background-color: grey;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 
 /* Align the h1 containing your name in the center of the header*/
 
