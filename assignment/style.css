@@ -1,4 +1,10 @@
 /* Add a background color to the header element */
+header{
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 24px;
+
+}
 
 /* Add a fun background color to the main element */
 
