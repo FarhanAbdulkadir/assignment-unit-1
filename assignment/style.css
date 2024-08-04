@@ -1,11 +1,26 @@
 /* Add a background color to the header element */
-
+*{
+    margin-top:0;
+    padding: 0;
+    box-sizing: border-box;
+}
 header{
-    background-color: antiquewhite;
+    background-color: rgb(250, 235, 215);
     text-align: center;
     font-size: 24px;
     
+    
+    
    
+}
+
+/* Add a fun background color to the main element */
+main{
+    background-color:rgb(250, 235, 215);
+   
+    
+    
+
 }
 img{
     height: 300px;
@@ -18,14 +33,6 @@ img{
     
 
 }
-/* Add a fun background color to the main element */
-main{
-    background-color:rgba(135, 206, 235, 0.5);
-    margin-top: 0;
-    
-    
-
-}
 p.par{
     color: red;
     font-style: italic;
@@ -35,7 +42,7 @@ ul.list{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 footer{
-    background-color: grey;
+    background-color: #faebd7;
     padding: 10px;
     text-align: center;
     position: fixed;
