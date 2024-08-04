@@ -8,18 +8,20 @@ header{
    
 }
 img{
-    height: auto;
-    width: auto;
-    margin:25px 60px 1px 10px;
+    height: 300px;
+    width: 500px;
+    margin: 25px 60px 1px 10px;
     border-style: solid;
     border-color: red;
     
+   
     
 
 }
 /* Add a fun background color to the main element */
 main{
     background-color:rgba(135, 206, 235, 0.5);
+    margin-top: 0;
     
     
 
